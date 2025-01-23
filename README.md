@@ -33,10 +33,12 @@ This project aims to normalize raw text data by identifying and extracting relev
 
 1. **Clone the Repository**:
    ``` bash
-   git clone https://github.com/sotirisvl98/text-normalization.git
+   git clone https://github.com/sotirisvl98/Text-Normalization.git
    ```
   
 2. **Install Dependencies**: 
     ```bash
     pip install -r requirements.txt 
     ```
+
+]
