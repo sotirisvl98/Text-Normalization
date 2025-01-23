@@ -41,4 +41,4 @@ This project aims to normalize raw text data by identifying and extracting relev
     pip install -r requirements.txt 
     ```
 
-]
+3. Add your credentials in **configuration.yaml** for the GPT approach.
